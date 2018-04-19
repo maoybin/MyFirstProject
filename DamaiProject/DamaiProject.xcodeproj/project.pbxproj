@@ -51,6 +51,7 @@
 		FFD85594208883D3005D91D2 /* DamaiProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DamaiProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFD85598208883D3005D91D2 /* DamaiProjectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DamaiProjectUITests.m; sourceTree = "<group>"; };
 		FFD8559A208883D3005D91D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FFD855A6208884C0005D91D2 /* SegmentTab.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SegmentTab.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +111,7 @@
 				FFD8557F208883D3005D91D2 /* LaunchScreen.storyboard */,
 				FFD85582208883D3005D91D2 /* Info.plist */,
 				FFD85583208883D3005D91D2 /* main.m */,
+				FFD855A6208884C0005D91D2 /* SegmentTab.gif */,
 			);
 			path = DamaiProject;
 			sourceTree = "<group>";
